@@ -36,4 +36,5 @@ def printer(name_array)
   end
   array3.each do |message|
     puts message
+  end
 end
